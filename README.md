@@ -2,6 +2,13 @@
 
 Welcome to **5Stack**, a Mongolian gaming platform designed to connect players, enhance server management, and foster community engagement. 5Stack offers matchmaking services, server listings (Minecraft, CS2, FiveM), forums, and event notifications, all in one convenient place. The platform prioritizes fair play, inclusivity, and providing monetization tools for server owners.
 
+<p align="center">
+  <a href="/LICENSE"><img alt="License Apache-2.0" src="https://img.shields.io/badge/license-Apache_2.0-blue?style=flat-square"></a>
+  <a href="https://github.com/pekly/5stack"><img alt="GitHub build activity" src="https://img.shields.io/badge/build-NYS-green?style=flat-square"/></a>
+  <a href="https://github.com/pekly/5stack"><img alt="Development status" src="https://img.shields.io/badge/development-Ready-green?style=flat-square"/></a>
+  <a href="https://dsc.gg/5stack"><img alt="GitHub closed issues" src="https://img.shields.io/discord/1215775695855423558?style=flat-square&label=discord"/></a>
+</p>
+
 ---
 
 ## Features
@@ -80,7 +87,7 @@ We welcome contributions from the community! If you have suggestions or want to 
 
 ## License
 
-5Stack is under active development, and licensing details will be added soon.
+5Stack is under active development, And is licensed under the Apache License, Version 2.0. You may use, modify, and distribute the software in compliance with the License. For details, see the full Apache License 2.0 text [here](/LICENSE).
 
 ---
 
