@@ -1,6 +1,6 @@
 ## 5Stack Terms of Service (TOS)
 
-### Effective Date: 2024 December
+### Effective Date: December 2024
 
 Welcome to 5Stack! By accessing or using our platform, you agree to comply with the following Terms of Service ("TOS"). Please read these terms carefully. If you do not agree with these terms, you may not use our services.
 
@@ -9,7 +9,7 @@ Welcome to 5Stack! By accessing or using our platform, you agree to comply with 
 ## 1. General Provisions
 
 ### 1.1 Description of Services
-5Stack is a gaming platform dedicated to helping players connect, organize teams, and access gaming-related features. These include but are not limited to game-specific matchmaking, server listings, and community hubs.
+5Stack is a gaming platform dedicated to helping players connect, organize teams, and access gaming-related features. These include, but are not limited to, game-specific matchmaking, server listings, and community hubs.
 
 ### 1.2 Eligibility
 Users must be 13 years of age or older to access and use the platform.
@@ -105,4 +105,3 @@ These terms are governed by the laws of Mongolia. Any disputes must be resolved 
 ## Contact Us
 
 For questions or concerns, please contact us at info@5stack.mn.
-
