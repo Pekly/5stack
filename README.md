@@ -71,7 +71,7 @@ Welcome to **5Stack**, a platform designed to help gamers find teammates and exp
 - Continuously add new games and refine matchmaking algorithms
 - Monitor platform performance and scale infrastructure as needed
 
-## Getting Started
+## Getting Started (Not Yet)
 
 To get started with the 5Stack platform, clone this repository and follow the instructions below.
 
@@ -85,6 +85,6 @@ To get started with the 5Stack platform, clone this repository and follow the in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/5Stack.git
+   git clone https://github.com/pekly/5Stack.git
    cd 5Stack
 
