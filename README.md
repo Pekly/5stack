@@ -1,4 +1,3 @@
-```markdown
 # 5Stack
 
 Welcome to **5Stack**, a Mongolian gaming platform designed to connect players, enhance server management, and foster community engagement. 5Stack offers matchmaking services, server listings (Minecraft, CS2, FiveM), forums, and event notifications, all in one convenient place. The platform prioritizes fair play, inclusivity, and providing monetization tools for server owners.
@@ -86,6 +85,3 @@ We welcome contributions from the community! If you have suggestions or want to 
 ---
 
 For any questions or support, feel free to reach out to **info@5stack.mn**.
-```
-
-Feel free to modify or expand on this draft as needed!
