@@ -4,7 +4,7 @@ Welcome to **5Stack**, a Mongolian gaming platform designed to connect players, 
 
 <p align="center">
   <a href="/LICENSE"><img alt="License Apache-2.0" src="https://img.shields.io/badge/license-Apache_2.0-blue?style=flat-square"></a>
-  <a href="https://github.com/pekly/5stack"><img alt="GitHub build activity" src="https://img.shields.io/badge/build-NYS-blue?style=flat-square"/></a>
+  <a href="https://buymeacoffee.com/pekly"><img alt="GitHub build activity" src="[https://img.shields.io/badge/build-NYS-blue](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)?style=flat-square"/></a>
   <a href="https://github.com/pekly/5stack"><img alt="Development status" src="https://img.shields.io/badge/development-Ready-green?style=flat-square"/></a>
   <a href="https://dsc.gg/5stack"><img alt="GitHub closed issues" src="https://img.shields.io/discord/1215775695855423558?style=flat-square&label=discord"/></a>
 </p>
