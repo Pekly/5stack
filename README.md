@@ -1,90 +1,91 @@
-# 5stack
-5Stack is a Mongolian gaming platform connecting players with matchmaking, server listings (Minecraft, CS2, FiveM), forums, and event notifications. It promotes fair play, community engagement, and offers monetization tools for servers. Designed to be safe, user-friendly, and open to suggestions, 5Stack is tailored for gamers.
+```markdown
+# 5Stack
 
-# 5Stack - Game Matchmaking and Server Directory Platform
+Welcome to **5Stack**, a Mongolian gaming platform designed to connect players, enhance server management, and foster community engagement. 5Stack offers matchmaking services, server listings (Minecraft, CS2, FiveM), forums, and event notifications, all in one convenient place. The platform prioritizes fair play, inclusivity, and providing monetization tools for server owners.
 
-Welcome to **5Stack**, a platform designed to help gamers find teammates and explore servers for popular games like Minecraft, Valorant, CS2, and more. This project is built to provide matchmaking functionality, server directories, and user profiles in a sleek, user-friendly environment.
+---
 
-## Phases of Development
+## Features
 
-### **Phase 1: Planning and Design**
-**Goal:** Define core features, wireframes, and the MVP (Minimum Viable Product).
+### Matchmaking
+- Skill-based matchmaking for supported games.
+- Private and public game room creation.
+- Fair play policies enforced to ensure positive gaming experiences.
 
-- Finalize MVP features (matchmaking, Minecraft server directory, user profiles, etc.)
-- Create wireframes for key pages (Home, Matchmaking, Server Directory, Profile)
-- Choose the initial tech stack (frontend, backend, database, hosting)
-- Research APIs for games (e.g., Valorant, CS2, MLBB)
+### Server Listings
+- Comprehensive directories for Minecraft, CS2, and FiveM servers.
+- Votifier integration for voting and ratings.
+- Content moderation to ensure server listings adhere to community guidelines.
 
-### **Phase 2: Backend Development**
-**Goal:** Build the core functionality of the platform.
+### Community Features
+- Forums for discussions and game-related topics.
+- Notifications for local events and tournaments.
+- Discord and social media integration to strengthen player connections.
 
-- Set up a database for user data, servers, and matchmaking
-- Develop user registration/login system (including email verification)
-- Implement game-specific matchmaking algorithms
-- Build the Minecraft server directory database and API connections
-- Add a basic API system for future game support
+### Monetization Options
+- Tools for server owners to advertise and manage their servers.
+- Flexible revenue options tailored for gaming communities.
 
-### **Phase 3: Frontend Development**
-**Goal:** Create a user-friendly interface.
+---
 
-- Develop the homepage with an introduction to 5Stack
-- Build the matchmaking interface (game selector, preferences form)
-- Design the Minecraft server directory (list, filters, search)
-- Create user profile pages (stats, achievements, preferences)
+## Development Roadmap
 
-### **Phase 4: Integration**
-**Goal:** Connect the frontend with backend functionality.
+### Phase 1: Planning
+- Define core features and MVP (Minimum Viable Product).
+- Develop platform wireframes and finalize the tech stack.
+- Research API support for games like Valorant, CS2, and MLBB.
 
-- Implement matchmaking functionality with database integration
-- Integrate Votifier for Minecraft server voting
-- Enable users to save and edit profiles
-- Test game-specific matchmaking logic
+### Phase 2: Backend
+- Build databases for users, servers, and matchmaking systems.
+- Develop user authentication with email verification.
+- Implement the server directory with moderation tools.
 
-### **Phase 5: Testing and Refinement**
-**Goal:** Ensure the platform is stable and user-friendly.
+### Phase 3: Frontend
+- Create intuitive UIs for matchmaking, server directories, and user profiles.
+- Integrate Votifier for Minecraft server voting.
 
-- Conduct functionality testing (login, matchmaking, server directory)
-- Fix bugs and refine UI/UX based on feedback
-- Test Votifier and Minecraft server reviews/rating system
-- Optimize performance (reduce loading times, handle larger user base)
+### Phase 4: Testing & Launch
+- Test features and refine UX based on feedback.
+- Deploy the platform and gather user input for improvements.
 
-### **Phase 6: Launch MVP**
-**Goal:** Release the platform with essential features.
+---
 
-- Deploy the platform on the hosting service
-- Announce the launch to the community
-- Gather user feedback for future updates
+## Contributing
 
-### **Phase 7: Feature Expansion**
-**Goal:** Add advanced features and expand game support.
+We welcome contributions from the community! If you have suggestions or want to collaborate, please contact us at **info@5stack.mn**.
 
-- Integrate additional games as APIs become available
-- Implement friend/team systems
-- Add event notifications and forums
-- Explore server monetization tools for Minecraft
+---
 
-### **Phase 8: Long-Term Growth**
-**Goal:** Keep 5Stack evolving based on user needs.
-
-- Launch premium features (in-app purchases, cosmetics)
-- Expand community engagement with meetups and tournaments
-- Continuously add new games and refine matchmaking algorithms
-- Monitor platform performance and scale infrastructure as needed
-
-## Getting Started (Not Yet)
-
-To get started with the 5Stack platform, clone this repository and follow the instructions below.
+## Getting Started (Coming Soon)
 
 ### Prerequisites
-
-- Node.js (for frontend development)
-- A backend server with database support (MongoDB or PostgreSQL recommended)
-- Web hosting platform (e.g., Heroku, AWS, DigitalOcean)
+- Knowledge of frontend technologies (HTML, CSS, JavaScript).
+- Backend setup for API integrations and databases (MongoDB/PostgreSQL recommended).
 
 ### Installation
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pekly/5Stack.git
-   cd 5Stack
+   git clone https://github.com/pekly/5stack.git
+   cd 5stack
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the local server:
+   ```bash
+   npm start
+   ```
 
+---
+
+## License
+
+5Stack is under active development, and licensing details will be added soon.
+
+---
+
+For any questions or support, feel free to reach out to **info@5stack.mn**.
+```
+
+Feel free to modify or expand on this draft as needed!
